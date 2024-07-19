@@ -1,7 +1,0 @@
-C:\Users\Naiki\Desktop\LABORATORIO_2\Prueba\Prueba\bin\Debug\Prueba.exe.config
-C:\Users\Naiki\Desktop\LABORATORIO_2\Prueba\Prueba\bin\Debug\Prueba.exe
-C:\Users\Naiki\Desktop\LABORATORIO_2\Prueba\Prueba\bin\Debug\Prueba.pdb
-C:\Users\Naiki\Desktop\LABORATORIO_2\Prueba\Prueba\obj\Debug\Prueba.csproj.AssemblyReference.cache
-C:\Users\Naiki\Desktop\LABORATORIO_2\Prueba\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
-C:\Users\Naiki\Desktop\LABORATORIO_2\Prueba\Prueba\obj\Debug\Prueba.exe
-C:\Users\Naiki\Desktop\LABORATORIO_2\Prueba\Prueba\obj\Debug\Prueba.pdb
