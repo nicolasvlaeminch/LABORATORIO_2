@@ -1,0 +1,7 @@
+C:\Users\Naiki\Desktop\LABORATORIO_2\CLASE_01\Ejercicio_02\Ejercicio_02\bin\Debug\Ejercicio_02.exe.config
+C:\Users\Naiki\Desktop\LABORATORIO_2\CLASE_01\Ejercicio_02\Ejercicio_02\bin\Debug\Ejercicio_02.exe
+C:\Users\Naiki\Desktop\LABORATORIO_2\CLASE_01\Ejercicio_02\Ejercicio_02\bin\Debug\Ejercicio_02.pdb
+C:\Users\Naiki\Desktop\LABORATORIO_2\CLASE_01\Ejercicio_02\Ejercicio_02\obj\Debug\Ejercicio_02.csproj.AssemblyReference.cache
+C:\Users\Naiki\Desktop\LABORATORIO_2\CLASE_01\Ejercicio_02\Ejercicio_02\obj\Debug\Ejercicio_02.csproj.CoreCompileInputs.cache
+C:\Users\Naiki\Desktop\LABORATORIO_2\CLASE_01\Ejercicio_02\Ejercicio_02\obj\Debug\Ejercicio_02.exe
+C:\Users\Naiki\Desktop\LABORATORIO_2\CLASE_01\Ejercicio_02\Ejercicio_02\obj\Debug\Ejercicio_02.pdb

@@ -1,0 +1,11 @@
+C:\Users\Naiki\Desktop\LABORATORIO_2\Modelo Primer Parcial\Modelo Primer Parcial\obj\Debug\Modelo Primer Parcial.csproj.AssemblyReference.cache
+C:\Users\Naiki\Desktop\LABORATORIO_2\Modelo Primer Parcial\Modelo Primer Parcial\obj\Debug\Modelo Primer Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Naiki\Desktop\LABORATORIO_2\Modelo Primer Parcial\Modelo Primer Parcial\bin\Debug\Modelo Primer Parcial.exe.config
+C:\Users\Naiki\Desktop\LABORATORIO_2\Modelo Primer Parcial\Modelo Primer Parcial\bin\Debug\Modelo Primer Parcial.exe
+C:\Users\Naiki\Desktop\LABORATORIO_2\Modelo Primer Parcial\Modelo Primer Parcial\bin\Debug\Modelo Primer Parcial.pdb
+C:\Users\Naiki\Desktop\LABORATORIO_2\Modelo Primer Parcial\Modelo Primer Parcial\bin\Debug\Entidades.exe
+C:\Users\Naiki\Desktop\LABORATORIO_2\Modelo Primer Parcial\Modelo Primer Parcial\bin\Debug\Entidades.pdb
+C:\Users\Naiki\Desktop\LABORATORIO_2\Modelo Primer Parcial\Modelo Primer Parcial\bin\Debug\Entidades.exe.config
+C:\Users\Naiki\Desktop\LABORATORIO_2\Modelo Primer Parcial\Modelo Primer Parcial\obj\Debug\Modelo P.0A8F23FD.Up2Date
+C:\Users\Naiki\Desktop\LABORATORIO_2\Modelo Primer Parcial\Modelo Primer Parcial\obj\Debug\Modelo Primer Parcial.exe
+C:\Users\Naiki\Desktop\LABORATORIO_2\Modelo Primer Parcial\Modelo Primer Parcial\obj\Debug\Modelo Primer Parcial.pdb

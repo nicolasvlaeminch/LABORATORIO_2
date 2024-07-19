@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Naiki\\Desktop\\LABORATORIO_2\\Clase_03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD74F010-BE86-4F9E-9BC1-50758667E4BC}|Ejercicio_03\\Ejercicio_03.csproj|c:\\users\\naiki\\desktop\\laboratorio_2\\clase_03\\ejercicio_03\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD74F010-BE86-4F9E-9BC1-50758667E4BC}|Ejercicio_03\\Ejercicio_03.csproj|solutionrelative:ejercicio_03\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD74F010-BE86-4F9E-9BC1-50758667E4BC}|Ejercicio_03\\Ejercicio_03.csproj|c:\\users\\naiki\\desktop\\laboratorio_2\\clase_03\\ejercicio_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD74F010-BE86-4F9E-9BC1-50758667E4BC}|Ejercicio_03\\Ejercicio_03.csproj|solutionrelative:ejercicio_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2A79F1-63D9-4AD6-9CCF-5A9BC65A0447}|Ejercicio_02\\Ejercicio_02.csproj|c:\\users\\naiki\\desktop\\laboratorio_2\\clase_03\\ejercicio_02\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2A79F1-63D9-4AD6-9CCF-5A9BC65A0447}|Ejercicio_02\\Ejercicio_02.csproj|solutionrelative:ejercicio_02\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB6FB16-2F82-4030-BC48-0C4D3E3A8156}|Clase_03\\Clase_03.csproj|c:\\users\\naiki\\desktop\\laboratorio_2\\clase_03\\clase_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB6FB16-2F82-4030-BC48-0C4D3E3A8156}|Clase_03\\Clase_03.csproj|solutionrelative:clase_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB6FB16-2F82-4030-BC48-0C4D3E3A8156}|Clase_03\\Ejercicio_01.csproj|c:\\users\\naiki\\desktop\\laboratorio_2\\clase_03\\clase_03\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB6FB16-2F82-4030-BC48-0C4D3E3A8156}|Clase_03\\Ejercicio_01.csproj|solutionrelative:clase_03\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2A79F1-63D9-4AD6-9CCF-5A9BC65A0447}|Ejercicio_02\\Ejercicio_02.csproj|c:\\users\\naiki\\desktop\\laboratorio_2\\clase_03\\ejercicio_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2A79F1-63D9-4AD6-9CCF-5A9BC65A0447}|Ejercicio_02\\Ejercicio_02.csproj|solutionrelative:ejercicio_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB6FB16-2F82-4030-BC48-0C4D3E3A8156}|Clase_03\\Ejercicio_01.csproj|c:\\users\\naiki\\desktop\\laboratorio_2\\clase_03\\clase_03\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CEB6FB16-2F82-4030-BC48-0C4D3E3A8156}|Clase_03\\Ejercicio_01.csproj|solutionrelative:clase_03\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Naiki\\Desktop\\LABORATORIO_2\\Clase_03\\Ejercicio_03\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Ejercicio_03\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\Naiki\\Desktop\\LABORATORIO_2\\Clase_03\\Ejercicio_03\\Estudiante.cs",
+              "RelativeToolTip": "Ejercicio_03\\Estudiante.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:29:33.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Naiki\\Desktop\\LABORATORIO_2\\Clase_03\\Ejercicio_03\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio_03\\Program.cs",
+              "ToolTip": "C:\\Users\\Naiki\\Desktop\\LABORATORIO_2\\Clase_03\\Ejercicio_03\\Program.cs",
+              "RelativeToolTip": "Ejercicio_03\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:27:32.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Naiki\\Desktop\\LABORATORIO_2\\Clase_03\\Ejercicio_02\\Persona.cs",
+              "RelativeDocumentMoniker": "Ejercicio_02\\Persona.cs",
+              "ToolTip": "C:\\Users\\Naiki\\Desktop\\LABORATORIO_2\\Clase_03\\Ejercicio_02\\Persona.cs",
+              "RelativeToolTip": "Ejercicio_02\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:50:55.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Naiki\\Desktop\\LABORATORIO_2\\Clase_03\\Ejercicio_02\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio_02\\Program.cs",
+              "ToolTip": "C:\\Users\\Naiki\\Desktop\\LABORATORIO_2\\Clase_03\\Ejercicio_02\\Program.cs",
+              "RelativeToolTip": "Ejercicio_02\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:47:37.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Naiki\\Desktop\\LABORATORIO_2\\Clase_03\\Clase_03\\App.config",
+              "RelativeDocumentMoniker": "Clase_03\\App.config",
+              "ToolTip": "C:\\Users\\Naiki\\Desktop\\LABORATORIO_2\\Clase_03\\Clase_03\\App.config",
+              "RelativeToolTip": "Clase_03\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-08T09:36:24.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\Naiki\\Desktop\\LABORATORIO_2\\Clase_03\\Clase_03\\Cuenta.cs",
+              "RelativeDocumentMoniker": "Clase_03\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\Naiki\\Desktop\\LABORATORIO_2\\Clase_03\\Clase_03\\Cuenta.cs",
+              "RelativeToolTip": "Clase_03\\Cuenta.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:15:53.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Naiki\\Desktop\\LABORATORIO_2\\Clase_03\\Clase_03\\Program.cs",
+              "RelativeDocumentMoniker": "Clase_03\\Program.cs",
+              "ToolTip": "C:\\Users\\Naiki\\Desktop\\LABORATORIO_2\\Clase_03\\Clase_03\\Program.cs",
+              "RelativeToolTip": "Clase_03\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:11:03.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

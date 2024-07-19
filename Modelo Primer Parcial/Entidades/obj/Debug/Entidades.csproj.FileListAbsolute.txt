@@ -1,0 +1,7 @@
+C:\Users\Naiki\Desktop\LABORATORIO_2\Modelo Primer Parcial\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Naiki\Desktop\LABORATORIO_2\Modelo Primer Parcial\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Naiki\Desktop\LABORATORIO_2\Modelo Primer Parcial\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\Naiki\Desktop\LABORATORIO_2\Modelo Primer Parcial\Entidades\bin\Debug\Entidades.exe
+C:\Users\Naiki\Desktop\LABORATORIO_2\Modelo Primer Parcial\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Naiki\Desktop\LABORATORIO_2\Modelo Primer Parcial\Entidades\obj\Debug\Entidades.exe
+C:\Users\Naiki\Desktop\LABORATORIO_2\Modelo Primer Parcial\Entidades\obj\Debug\Entidades.pdb

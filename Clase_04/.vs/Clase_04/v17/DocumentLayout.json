@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Naiki\\Desktop\\LABORATORIO_2\\Clase_04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0E3859-6C8E-4014-BCEF-A0C49F5B4A86}|Clase_04\\Ejercicio_01.csproj|c:\\users\\naiki\\desktop\\laboratorio_2\\clase_04\\clase_04\\sumador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0E3859-6C8E-4014-BCEF-A0C49F5B4A86}|Clase_04\\Ejercicio_01.csproj|solutionrelative:clase_04\\sumador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0E3859-6C8E-4014-BCEF-A0C49F5B4A86}|Clase_04\\Ejercicio_01.csproj|C:\\Users\\Naiki\\Desktop\\LABORATORIO_2\\Clase_04\\clase_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0E3859-6C8E-4014-BCEF-A0C49F5B4A86}|Clase_04\\Ejercicio_01.csproj|solutionrelative:clase_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Naiki\\Desktop\\LABORATORIO_2\\Clase_04\\Clase_04\\Program.cs",
+              "RelativeDocumentMoniker": "Clase_04\\Program.cs",
+              "ToolTip": "C:\\Users\\Naiki\\Desktop\\LABORATORIO_2\\Clase_04\\Clase_04\\Program.cs",
+              "RelativeToolTip": "Clase_04\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:56:03.724Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sumador.cs",
+              "DocumentMoniker": "C:\\Users\\Naiki\\Desktop\\LABORATORIO_2\\Clase_04\\Clase_04\\Sumador.cs",
+              "RelativeDocumentMoniker": "Clase_04\\Sumador.cs",
+              "ToolTip": "C:\\Users\\Naiki\\Desktop\\LABORATORIO_2\\Clase_04\\Clase_04\\Sumador.cs",
+              "RelativeToolTip": "Clase_04\\Sumador.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:20:29.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
